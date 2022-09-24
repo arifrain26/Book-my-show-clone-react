@@ -18,3 +18,4 @@ this project is clone of book my show website using react.js
 - The Movie DataBase API
 
 ## Live Website
+https://bookmyshowclone-react.netlify.app/
